@@ -25,10 +25,10 @@ This is a Spring Boot project which has a booking application with all features.
 
 ## How to install
 
-1.Clone the repository : git clone https://github.com/Anugrahas2001/book-my-show-ticket.git
+ 1.Clone the repository : git clone https://github.com/Anugrahas2001/book-my-show-ticket.git
 
 2. Import the project into STS:
-   + Click File >Import...
+    + Click File >Import...
    + Select Maven > Existing Maven Projects and click Next.
    +  Browse to the project directory and click Finish.
      
