@@ -17,7 +17,7 @@ This is a Spring Boot project which has a booking application with all features.
 - Java 17 or above
 - Spring Boot 3.0
 - Maven
-- PostSQL
+- PostgreSQL
 - Spring Data JPA
 - Spring Dev Tool
 - Spring Web
